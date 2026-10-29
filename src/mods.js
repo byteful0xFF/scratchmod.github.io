@@ -456,9 +456,29 @@ let MerrCode = {
     "children": {}
 }
 
+let Aluminum = {
+    "name": "Aluminum IDE",
+    "link": "https://aluminum-ide.surge.sh/",
+    "children": {}
+}
+
+let OmniBlocks = {
+    "name": "OmniBlocks",
+    "link": "https://omniblocks.org/",
+    "children": {}
+}
+
+
+let zippr = {
+    "name": "zippr"
+    "link": "https://omniblocks.org/"
+    "children": {}
+}
+
 const Mods = {
     AbsoluteMod,
     Adacraft,
+    Aluminum,
     Ampmod,
     AstraEditor,
     Axerboost,
@@ -504,6 +524,7 @@ const Mods = {
     MyScratchBlocks,
     NitroBolt,
     Nuclearmod,
+    OmniBlocks,
     OpenBlock,
     Orangemod,
     Penguinmod,
@@ -530,6 +551,7 @@ const Mods = {
     Tutelmod,
     Unsandboxed,
     Xcratch,
+    zippr,
     ZincCoding,
     ZtEngine,
     //Zypheramod
