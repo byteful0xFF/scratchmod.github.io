@@ -10,6 +10,7 @@ Mods.Scratch2.children = {
 }
 
 Mods.Scratch.children = {
+  OmniBlocks: Mods.OmniBlocks,
   Turbowarp: Mods.Turbowarp,
   OpenBlock: Mods.OpenBlock,
   Cognimates: Mods.Cognimates,
@@ -34,6 +35,7 @@ Mods.OpenBlock.children = {
 }
 
 Mods.Turbowarp.children = {
+  zippr: Mods.zippr,
   Penguinmod: Mods.Penguinmod,
   Ampmod: Mods.Ampmod,
   Mistwarp: Mods.Mistwarp,
@@ -109,6 +111,10 @@ Mods.SnailIDE.children = {
 
 Mods.CircleIDE.children = {
   AbsoluteMod: Mods.AbsoluteMod
+}
+
+Mods.AbsoluteMod.children = {
+  Aluminum: Mods.Aluminum
 }
 
 export default Mods;
