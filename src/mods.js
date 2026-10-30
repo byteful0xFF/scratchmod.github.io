@@ -468,10 +468,10 @@ let OmniBlocks = {
     "children": {}
 }
 
-
+// fix zippr with right URL
 let zippr = {
-    "name": "zippr"
-    "link": "https://omniblocks.org/"
+    "name": "zippr",
+    "link": "https://www.zipprpj.website/#/create",
     "children": {}
 }
 
